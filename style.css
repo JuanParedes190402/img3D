@@ -26,3 +26,9 @@ body {
 	border: 1px solid #D6DBDF;
 	margin-top: 10px;
 }
+
+.item{
+	width:303px;
+	float:left;
+	margin-bottom:10px;
+}
